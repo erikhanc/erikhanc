@@ -7,6 +7,6 @@
 - 👀 Althought I am .NET developer, I’m also interested in React.js (Next.js) and React Native projects to get further experiences of the frontent development.
 
 - 💞️ I’m looking to collaborate on backend web apps in .NET development or development of client apps in React.js.
-- 📫 You can reach me on my LinkedIn account: https://sk.linkedin.com/in/erik-hanc-20548037
+- 📫 You can reach me out on my LinkedIn account: https://sk.linkedin.com/in/erik-hanc-20548037
 
 - 👋 Cheers!
